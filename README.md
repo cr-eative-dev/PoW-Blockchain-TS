@@ -16,8 +16,8 @@ A simple yet fully functional proof-of-work blockchain implementation written in
 Clone the repository and install dependencies:
 
 ```bash
-git clone <repository-url>
-cd ts-blockchain
+git clone https://github.com/cr-eative-dev/PoW-Blockchain-TS.git
+cd pow-blockchain-ts
 npm install
 ```
 
